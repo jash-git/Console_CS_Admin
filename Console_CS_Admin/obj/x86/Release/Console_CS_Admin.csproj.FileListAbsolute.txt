@@ -1,0 +1,4 @@
+D:\Visual project code\Console_CS_Admin\Console_CS_Admin\bin\Release\Console_CS_Admin.exe
+D:\Visual project code\Console_CS_Admin\Console_CS_Admin\bin\Release\Console_CS_Admin.pdb
+D:\Visual project code\Console_CS_Admin\Console_CS_Admin\obj\x86\Release\Console_CS_Admin.exe
+D:\Visual project code\Console_CS_Admin\Console_CS_Admin\obj\x86\Release\Console_CS_Admin.pdb
